@@ -25,6 +25,7 @@ p {font-size:  1rem;}
 .text-group {
   width:100%;
   display:flex;
+  align-items: center; 
   margin-top:10px;
   padding-left: 10px;
   padding-right: 10px;
@@ -35,7 +36,7 @@ p {font-size:  1rem;}
   padding: 0 10px;
   display: flex;
   align-content: center;
-  align-items: center
+  align-items: center; 
 }
 
 .photo-gallery {
